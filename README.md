@@ -8,10 +8,15 @@ Una aplicación JavaFX simple que permite al usuario seleccionar una fecha y un 
   
 <h3>Funcionalidades</h3>
 DatePicker: Permite seleccionar una fecha.
+
 ColorPicker: Permite seleccionar un color.
+
 Confirmar: Botón para confirmar la selección y mostrar la fecha y el color seleccionados.
 
 <h3>Cómo usar</h3>
+
 Seleccionar Fecha: Utiliza el DatePicker para elegir una fecha.
+
 Seleccionar Color: Utiliza el ColorPicker para elegir un color.
+
 Confirmar Selección: Presiona el botón "Confirmar" para imprimir la fecha seleccionada y el nombre o variante del color en la consola.
